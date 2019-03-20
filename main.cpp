@@ -4,7 +4,7 @@
 #include<algorithm>
 using namespace std;
 
-ifstream fin("stiva.txt");
+ifstream fin("input.txt");
 
 template<class T>
 
