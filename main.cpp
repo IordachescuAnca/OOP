@@ -4,7 +4,7 @@
 #include<algorithm>
 using namespace std;
 
-ifstream fin("input.txt");
+ifstream fin("stack.txt");
 
 template<class T>
 
